@@ -1,5 +1,10 @@
 # iGEMToehold
 
+i G E M
+G
+E
+M
+
 Open Terminal, type this:
 chmod +x
 press space and drag the file in then press enter
